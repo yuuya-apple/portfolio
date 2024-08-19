@@ -2,10 +2,6 @@
 
 - [React ドラッグ&ドロップ](https://yuuya-apple.github.io/trello_clone/)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6552f7254c738320aa546718949000443e5fcd42
 # ポートフォリオ(案)
 
 ## 自己紹介会サイト
